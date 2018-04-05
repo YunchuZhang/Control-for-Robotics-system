@@ -1,2 +1,3 @@
 # Control-for-Robotics-system
-This is for UCLA 263C course project
+Use  Raspberry Pi to load Deep learning model and give signal to controller 
+Finally it could achieve human-robots interaction
