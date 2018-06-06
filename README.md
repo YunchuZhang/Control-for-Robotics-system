@@ -6,3 +6,5 @@ The myrio control the motor part for rubik cube's rotate and denso is in charge 
 
 # To run the code
 You need to run the myrio vi first and then run denso vi to wait the gripper move to a open position. After that you need to click the button in myrio vi to start the whole code. Also, you need to change the txt's path and content for certain trajectory and path.
+# Demo video
+[Demo video](https://drive.google.com/open?id=1XHUg7joeWYaX7m4Fdc9wFrAwi8p9Nyx5)
